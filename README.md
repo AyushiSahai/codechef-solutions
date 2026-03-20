@@ -4,17 +4,17 @@ A clean, organized collection of my CodeChef problem solutions in Python.
 
 ![Language](https://img.shields.io/badge/Language-Python-blue?logo=python)
 ![Platform](https://img.shields.io/badge/Platform-CodeChef-orange)
-![Problems](https://img.shields.io/badge/Problems%20Solved-5-brightgreen)
+![Problems](https://img.shields.io/badge/Problems%20Solved-6-brightgreen)
 
 ## 📊 Progress (Auto Updated!)
 
 | Difficulty | Solved |
 |------------|--------|
-| ⭐ Easy | 5 |
+| ⭐ Easy | 6 |
 | ⭐⭐ Medium | 0 |
 | ⭐⭐⭐ Hard | 0 |
 | 🏆 Contests | 0 |
-| **Total** | **5** |
+| **Total** | **6** |
 
 ## 🕐 Recently Added
 
@@ -22,9 +22,9 @@ A clean, organized collection of my CodeChef problem solutions in Python.
 |---------|------------|
 | The Lead Game | Easy |
 | Subscriptions | Easy |
+| Recent contest problems | Easy |
 | Degree of Polynomial | Easy |
 | Binary Battles | Easy |
-| AVGPROBLEM | Easy |
 
 ## 🚀 Daily Workflow
 
