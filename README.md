@@ -4,17 +4,17 @@ A clean, organized collection of my CodeChef problem solutions in Python.
 
 ![Language](https://img.shields.io/badge/Language-Python-blue?logo=python)
 ![Platform](https://img.shields.io/badge/Platform-CodeChef-orange)
-![Problems](https://img.shields.io/badge/Problems%20Solved-8-brightgreen)
+![Problems](https://img.shields.io/badge/Problems%20Solved-9-brightgreen)
 
 ## 📊 Progress (Auto Updated!)
 
 | Difficulty | Solved |
 |------------|--------|
-| ⭐ Easy | 8 |
+| ⭐ Easy | 9 |
 | ⭐⭐ Medium | 0 |
 | ⭐⭐⭐ Hard | 0 |
 | 🏆 Contests | 0 |
-| **Total** | **8** |
+| **Total** | **9** |
 
 ## 🕐 Recently Added
 
@@ -22,9 +22,9 @@ A clean, organized collection of my CodeChef problem solutions in Python.
 |---------|------------|
 | Water Filling | Easy |
 | The Lead Game | Easy |
+| The Cooler Dilemma 2 | Easy |
 | Subscriptions | Easy |
 | Recent contest problems | Easy |
-| Primality Test | Easy |
 
 ## 🚀 Daily Workflow
 
